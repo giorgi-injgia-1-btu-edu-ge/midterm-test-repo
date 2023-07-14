@@ -1,5 +1,5 @@
 import pytest
-from lab1 import add_numbers
+from lab import add_numbers
 
 
 def test_add_numbers():
